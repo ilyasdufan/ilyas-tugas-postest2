@@ -149,5 +149,3 @@ while True:
     else:
         print("Menu tidak tersedia")
 
-        ![f](https://github.com/ilyasdufan/ilyas-tugas-postest2/assets/144988284/e36bf09a-2468-4374-ab02-a5872b34575d)
-
